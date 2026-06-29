@@ -1,8 +1,11 @@
 # Web Exploitation — Blind SQL Injection
 
 **Category:** Web Exploitation
+
 **Difficulty:** Medium
+
 **Tools Used:** Burp Suite, SQLMap, custom Python scripts
+
 **Key Learning:** Boolean-based blind injection when time-based is blocked
 
 ---
