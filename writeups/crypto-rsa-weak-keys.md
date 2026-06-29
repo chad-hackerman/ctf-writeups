@@ -1,8 +1,11 @@
 # Cryptography — RSA Weak Keys (Common Modulus Attack)
 
 **Category:** Cryptography
+
 **Difficulty:** Hard
+
 **Tools Used:** Python, gmpy2
+
 **Key Learning:** Importance of proper key generation and padding schemes
 
 ---
