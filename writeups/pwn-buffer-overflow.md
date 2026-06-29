@@ -1,8 +1,11 @@
 # Binary Exploitation — Buffer Overflow (ASLR Bypass + ROP Chain)
 
 **Category:** Binary Exploitation (Pwn)
+
 **Difficulty:** Hard
+
 **Tools Used:** GDB, pwntools, ROPgadget
+
 **Key Learning:** Modern exploit mitigation bypasses
 
 ---
