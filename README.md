@@ -1,7 +1,9 @@
 # 🚩 CTF Writeups
 
 **Author:** Chad Hackerman
+
 **Competition Experience:** 50+ CTF events
+
 **Notable Achievements:** Top 10% in multiple national competitions
 
 Collection of Capture the Flag competition solutions demonstrating penetration testing methodologies and problem-solving approaches.
